@@ -1,0 +1,9 @@
+
+Integrantes: 
+
+-Martin valencia Vallejo
+-Daniel Montoya Arenas
+
+Compilador & IDE: Online GDB
+
+Link video de apoyo: https://youtu.be/9DpHZBE7bc0
